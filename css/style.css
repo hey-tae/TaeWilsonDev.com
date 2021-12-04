@@ -47,8 +47,12 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.2;
 }
 
+.front-page{
+  font-size: 85px;
+}
+
 h1, .h1 {
-  font-size: 80px;
+  font-size: 70px;
 }
 @media (max-width: 991px) {
   h1, .h1 {
@@ -737,15 +741,16 @@ blockquote {
 }
 
 .page-title-alt {
-  padding: 350px 0 70px;
+  padding: 250px 0 70px;
 }
 
 .border-thick {
-  border: 10px solid;
+  border: 7px solid;
 }
 
 .drag-lg-top {
-  margin-top: -230px;
+  margin-top: -361px;
+  margin-left: 0;
 }
 @media (max-width: 991px) {
   .drag-lg-top {
